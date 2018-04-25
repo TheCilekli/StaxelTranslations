@@ -3,7 +3,7 @@ language=Türkçe
 //[Reference] 'Achievement unlocked: {0-achievement}!'
 achievements.achievementUnlocked=Başarım açıldı {0-achievement}!
 //[Reference] 'Buy:'
-catalogue.buy=Al
+catalogue.buy=Satın Al
 //[Reference] 'Clear'
 catalogue.clear=Temizle
 //[Reference] 'Not enough money!'
@@ -17,17 +17,17 @@ catalogue.sell=Sat:
 //[Reference] 'Total'
 catalogue.total=Toplam
 //TODO Translate [Reference] 'success'
-commands.debugGraphics.success=
+commands.debugGraphics.success=Başarı
 //TODO Translate [Reference] 'success'
-commands.mail.success=
+commands.mail.success=Başarı
 //[Reference] 'success'
 commands.tripod.success=Başarılı
 //[Reference] 'Break'
 controlHint.verb.Break=Kır
 //[Reference] 'Buy'
-controlHint.verb.Buy=Al
+controlHint.verb.Buy=Satın Al
 //[Reference] 'Calm'
-controlHint.verb.Calm=Dur
+controlHint.verb.Calm=Sakinleş
 //[Reference] 'Cast'
 controlHint.verb.Cast=Fırlat
 //[Reference] 'Catch'
@@ -75,7 +75,7 @@ controlHint.verb.Dig=Kaz
 //[Reference] 'Fill'
 controlHint.verb.Fill=Doldur
 //TODO Translate [Reference] 'Give'
-controlHint.verb.Give=
+controlHint.verb.Give=Ver
 //[Reference] 'Inspect'
 controlHint.verb.Inspect=Denetle
 //[Reference] 'Launch'
@@ -147,7 +147,7 @@ crafting.action.keyword.fry=Kızart
 //[Reference] 'Mix'
 crafting.action.keyword.mix=Karıştır
 //TODO Translate [Reference] 'Polish'
-crafting.action.keyword.polish=
+crafting.action.keyword.polish=Parlat
 //[Reference] 'Reap'
 crafting.action.keyword.reap=Hasat
 //[Reference] 'Saw'
@@ -221,7 +221,7 @@ error.back=Geri Dön
 //[Reference] 'Bad Version'
 error.badVersion=Yanlış Versiyon
 //TODO Translate [Reference] 'Server Full'
-error.serverFull=
+error.serverFull=Server Dolu
 //[Reference] 'The Staxel.net server appears to be offline. Please try again later.'
 error.serverOffline=Staxel.net yanıt verdiyor daha sonra tekrar dene.
 //[Reference] 'SORRY!'
@@ -249,7 +249,7 @@ escapeMenu.returnHome=Eve Işınlan
 //[Reference] 'It got away!'
 fishing.gotAway=Uzaklaştı!
 //[Reference] 'Something is on the hook!'
-fishing.hooked=Oltada bişey var
+fishing.hooked=Oltaya birşey takıldı!
 //[Reference] 'There are no fish here'
 fishing.noFish=Burada balık yok
 //[Reference] 'GOT IT!'
@@ -265,15 +265,15 @@ hintText.bed={0-gameLogicalButton} ile yataktan çık
 //[Reference] 'Plants won't grow here'
 hintText.cantPlantHere=Bitkiler burada büyümeyecek
 //[Reference] 'Press {0-gameLogicalButton} to leave chair'
-hintText.chair={0-gameLogicalButton} basarak sandalyeden kalk
+hintText.chair={0-gameLogicalButton} tuşuna basarak sandalyeden kalk
 //[Reference] 'Charge: {0:P1-chargeLevel}, Right Click or Left Trigger to Cancel'
 hintText.charge=Şarj: {0:P1-chargeLevel}, Sağ veya sola tıklayıp iptal et
 //[Reference] '{0:P0-growth}'
 hintText.checkPlantGrowth={0:P0-growth}
 //[Reference] 'It's ready for harvesting'
-hintText.checkPlantGrowth.fruited=Hasata hazır
+hintText.checkPlantGrowth.fruited=Hasat edilmeye hazır
 //[Reference] 'It's growing healthily'
-hintText.checkPlantGrowth.growing=Sağlıklı durumda
+hintText.checkPlantGrowth.growing=Sağlıklı şekilde büyüyor
 //[Reference] 'It's sleeping for now. It doesn't grow in this season.'
 hintText.checkPlantGrowth.outOfSeason=Şuanda uyuyor bu mevsimde büyümez.
 //[Reference] 'It's sleeping for now. It doesn't grow during {0-season}'
